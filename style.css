@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 body {
-  background-color: #3c3c3c;
+  background-image: linear-gradient(46deg, rgba(48, 94, 153, 0.6805752363812124) 57%, rgba(249, 204, 184, 0.5) 140%),linear-gradient(49deg, rgba(61, 113, 244, 0.05957884208460218) 27%, rgba(242, 183, 159, 0.5) 54%),linear-gradient(93deg, rgba(60, 88, 201, 0.6982814278767949) 21%, rgba(239, 124, 147, 0.5) 170%),linear-gradient(73deg, rgba(93, 193, 239, 0.6014891508982646) 1%, rgba(249, 159, 149, 0.5) 55%); background-blend-mode: overlay,soft-light,multiply,overlay;
   padding: 50px 0;
   font-family: 'Noto Sans', sans-serif;
   text-align: center;
