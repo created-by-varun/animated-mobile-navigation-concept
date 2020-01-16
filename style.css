@@ -103,47 +103,18 @@ body {
 
 .logo {
   display: block;
-  width: 64px;
-  height: 64px;
+  width: 256px;
+  height: 256px;
   position: absolute;
   top: 50%;
   left: 50%;
-  margin-top: -52px;
-  margin-left: -32px;
+  transform: translate(-50%, -50%);
   text-align: center;
   z-index: 10;
-}
-.logo span {
-  display: block;
-  text-align: center;
-  line-height: 62px;
-  font-size: 72px;
-  color: white;
-}
-
-.logo-title {
-  position: absolute;
-  top: 10px;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  color: #222222;
-  font-size: 32px;
-  line-height: 82x;
-}
-
-.logo-badge {
-  position: absolute;
-  display: block;
-  width: 24px;
-  height: 24px;
-  top: 6px;
-  right: -6px;
-  border-radius: 100%;
-  background-color: #6295ca;
-  font-size: 12px;
-  line-height: 2;
-  text-align: center;
+  color: aliceblue;
+  line-height: 22px;
+  text-transform: uppercase;
+  font-family: sans-serif;
 }
 
 .inner-container, .menu-container {
